@@ -1,0 +1,13 @@
+4
+SF
+PA
+BX
+NY
+6
+( BX , NY )
+( BX , SF )
+( BX , PA )
+( PA , SF )
+( PA , NY )
+( NY , SF )
+
